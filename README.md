@@ -14,23 +14,30 @@ Zadanie 1
 
 
 Instalacja w google collabie pyspark
-<img width="1046" height="902" alt="image (33)" src="https://github.com/user-attachments/assets/6b60c332-ac54-43c1-bf2e-c76a2389a4de" />
+
+<img width="1046" height="902" alt="image (33)" src="https://github.com/user-attachments/assets/ae33ad84-7d58-451d-8340-f65a9e271d98" />
+
 
 
 Zadanie 2 
 
 
 Sama wygenerowałam przykładowy plik i go wczytałam
-<img width="804" height="991" alt="image (34)" src="https://github.com/user-attachments/assets/df4c0700-4e21-4d1c-ad83-0d9848cedc70" />
+
+
+<img width="804" height="991" alt="image (34)" src="https://github.com/user-attachments/assets/8a509bd2-f72c-4e3e-aa53-0e408194eb65" />
+
 
 
 Podstawowe operacje
-<img width="478" height="300" alt="image (35)" src="https://github.com/user-attachments/assets/51438338-66e0-404a-9aba-9e78dcae41c2" />
 
+
+<img width="478" height="300" alt="image (35)" src="https://github.com/user-attachments/assets/5e40cab3-99c7-41a9-bd0f-0fdeee7c63af" /><img width="1772" height="217" 
 
 
 Zadanie 3 Praca z RDD w PySpark 
-<img width="1772" height="217" alt="image (36)" src="https://github.com/user-attachments/assets/e62655c4-d10a-4fcc-8c5e-1d7f9b3316a6" />
+
+alt="image (36)" src="https://github.com/user-attachments/assets/85b20154-aaa9-45cf-a471-478f7a38c16f" />
 
 
 
